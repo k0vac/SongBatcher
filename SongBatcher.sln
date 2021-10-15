@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SongBatcher", "SongBatcher\SongBatcher.csproj", "{3F447803-35DB-4301-B80F-BF16216C6FFD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{E8651B4F-37C9-4236-BC1A-62936A9CA278}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3F447803-35DB-4301-B80F-BF16216C6FFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F447803-35DB-4301-B80F-BF16216C6FFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F447803-35DB-4301-B80F-BF16216C6FFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F447803-35DB-4301-B80F-BF16216C6FFD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {30A85B5C-B7BC-407F-B07F-7DF21B94508A}
+	EndGlobalSection
+EndGlobal

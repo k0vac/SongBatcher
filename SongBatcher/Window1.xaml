@@ -1,0 +1,40 @@
+﻿<Window x:Class="SongBatcher.Window1"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SongBatcher"
+        mc:Ignorable="d"
+        Title="Credits" Height="300" Width="300">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="5*" />
+            <ColumnDefinition Width="90*" />
+            <ColumnDefinition Width="5*" />
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="5*"/>
+            <RowDefinition Height="22*"/>
+            <RowDefinition Height="22*"/>
+            <RowDefinition Height="22*"/>
+            <RowDefinition Height="22*"/>
+            <RowDefinition Height="5*"/>
+
+        </Grid.RowDefinitions>
+        <TextBlock Grid.Column="1" Grid.Row="1" Text="SongBatcher by Veljko Kovačević" HorizontalAlignment="Center" VerticalAlignment="Center" FontWeight="Bold" Margin="0,0,0,30" />
+        <TextBlock Grid.Column="1" Grid.Row="1" Text="www.veljkokovacevic.com" HorizontalAlignment="Center" VerticalAlignment="Center" FontWeight="Normal" />
+        <TextBlock Grid.Column="1" Grid.Row="1" Text="www.github.com/k0vac/SongBatcher" HorizontalAlignment="Center" VerticalAlignment="Center" FontWeight="Normal" Margin="0,30,0,0" />
+
+        <TextBlock Grid.Column="1" Grid.Row="2" Text="FFmpeg.NET by Tobias Haimerl" HorizontalAlignment="Center" VerticalAlignment="Center" FontWeight="Bold" Margin="0,0,0,30" />
+        <TextBlock Grid.Column="1" Grid.Row="2" Text="www.noobit.dev" HorizontalAlignment="Center" VerticalAlignment="Center" FontWeight="Normal" />
+        <TextBlock Grid.Column="1" Grid.Row="2" Text="www.github.com/cmxl/FFmpeg.NET" HorizontalAlignment="Center" VerticalAlignment="Center" FontWeight="Normal" Margin="0,30,0,0" />
+
+        <TextBlock Grid.Column="1" Grid.Row="3" Text="FFmpeg by Fabrice Bellard" HorizontalAlignment="Center" VerticalAlignment="Center" FontWeight="Bold" Margin="0,0,0,30" />
+        <TextBlock Grid.Column="1" Grid.Row="3" Text="www.bellard.org" HorizontalAlignment="Center" VerticalAlignment="Center" FontWeight="Normal" />
+        <TextBlock Grid.Column="1" Grid.Row="3" Text="www.ffmpeg.org" HorizontalAlignment="Center" VerticalAlignment="Center" FontWeight="Normal" Margin="0,30,0,0" />
+
+        <TextBlock Grid.Column="1" Grid.Row="4" Text="Icons by Open Iconic" HorizontalAlignment="Center" VerticalAlignment="Center" FontWeight="Bold" Margin="0,0,0,30" />
+        <TextBlock Grid.Column="1" Grid.Row="4" Text="www.useiconic.com/open" HorizontalAlignment="Center" VerticalAlignment="Center" FontWeight="Normal" />
+        <TextBlock Grid.Column="1" Grid.Row="4" Text="www.github.com/iconic/open-iconic" HorizontalAlignment="Center" VerticalAlignment="Center" FontWeight="Normal" Margin="0,30,0,0" />
+    </Grid>
+</Window>
