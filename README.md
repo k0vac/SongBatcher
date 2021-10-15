@@ -1,4 +1,5 @@
-![](https://i.postimg.cc/W1Q55DLd/songbatcher.png) # SongBatcher
+![](https://i.postimg.cc/W1Q55DLd/songbatcher.png) 
+# SongBatcher
 ## Convert batches of MP4s into MP3s!
 
 ###### Demo GIF
