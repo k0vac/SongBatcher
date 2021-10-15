@@ -24,7 +24,7 @@ SongBatcher is a lightweight Windows Application built on .NET 5 to convert batc
 ⚠️ - MP4 files with no audio stream will not output an MP3 file  
 ⚠️ - Pressing the Convert button without selecting files will cause program to crash
 
-
+DISCLAIMER: I do not condone the usage of this program, nor any of its derivates to be used to infringe on Intellectual Property of Rights Holders.
 
 
 
