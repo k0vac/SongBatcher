@@ -7,6 +7,8 @@ SongBatcher is a lightweight Windows Application built on .NET 5 to convert batc
 
 ![Song Batcher GIF](https://i.postimg.cc/3x7Rm1WN/songbatcherdemo.gif)
 
+[Releases](https://github.com/k0vac/SongBatcher/releases/tag/Stable)
+
 ## Libraries
 
 - [FFmpeg.NET](https://github.com/cmxl/FFmpeg.NET) - .NET Wrapper for FFmpeg
