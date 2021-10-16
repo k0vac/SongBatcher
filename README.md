@@ -1,7 +1,6 @@
 # SongBatcher Project
-![](https://img.shields.io/github/languages/code-size/k0vac/SongBatcher?style=flat-square)
-![](https://img.shields.io/github/downloads/k0vac/SongBatcher/total?style=flat-square)
-![](https://img.shields.io/badge/.net%20version-5.0.11-orange)
+![](https://img.shields.io/github/languages/code-size/k0vac/SongBatcher?style=plastic)
+![](https://img.shields.io/github/license/k0vac/SongBatcher?style=plastic)
 
 ![](https://i.postimg.cc/L86ccQsr/songbatcherbanner.png)  
 SongBatcher is a lightweight Windows Application built on .NET 5 to convert batches of MP4s in a folder into MP3s.
